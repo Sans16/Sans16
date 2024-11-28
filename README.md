@@ -1,16 +1,12 @@
-## Hi there 👋
+### 👋 Hello! I'm Sanusi Sheriff 🧑‍💻
 
-<!--
-**Sans16/Sans16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Passionate about crafting intuitive and delightful mobile experiences. I specialize in Android and iOS, leveraging modern technologies and best practices to build scalable and maintainable applications.
+---
+# About Me
+ - ##### 🚀 Transforming ideas into impactful digital experiences.
+- ##### 🌟 Specialized in Android/iOS/Data Science.
+- ##### 💡 Passionate about creating user-friendly, scalable, and innovative solutions.
+- ##### 🎨 Advocate for clean code, thoughtful design, and seamless user journeys.
+- ##### 💻 Always exploring new technologies and methodologies to stay ahead of the curve.
+- ##### 🌍 Location: London, United Kingdom.
+---
