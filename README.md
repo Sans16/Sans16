@@ -2,7 +2,7 @@
 
 ##### Passionate about crafting intuitive and delightful mobile experiences. I specialize in Android and iOS, leveraging modern technologies and best practices to build scalable and maintainable applications.
 ---
-# About Me
+### About Me
  - ##### 🚀 Transforming ideas into impactful digital experiences.
 - ##### 🌟 Specialized in Android/iOS/Data Science.
 - ##### 💡 Passionate about creating user-friendly, scalable, and innovative solutions.
